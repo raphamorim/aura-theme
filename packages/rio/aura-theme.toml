@@ -1,0 +1,40 @@
+[colors]
+# Light colors
+light-red = "#ff6767"
+light-yellow = "#ffca85"
+light-blue = "#a277ff"
+light-black = "#4d4d4d"
+light-cyan = "#61ffca"
+light-white = "#edecee"
+light-green = "#61ffca"
+light-magenta = "#a277ff"
+
+# Dim colors
+dim-background = "#15141b"
+light-background = "#29263c"
+dim-foreground = "#dcdcdc"
+light-foreground = "#edecee"
+
+# Main colors
+background = "#15141b"
+foreground = "#edecee"
+dim-blue = "#607a92"
+dim-cyan = "#61ffca"
+dim-magenta = "#a277ff"
+dim-green = "#61ffca"
+dim-white = "#bfbfbf"
+dim-red = "#ff6767"
+dim-black = "#110f18"
+dim-yellow = "#ffca85"
+
+# Primary colors
+cursor = "#a277ff"
+text = "#edecee"
+white = "#edecee"
+green = "#61ffca"
+magenta = "#a277ff"
+red = "#ff6767"
+black = "#110f18"
+cyan = "#61ffca"
+yellow = "#ffca85"
+blue = "#a277ff"
