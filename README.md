@@ -240,10 +240,10 @@
     <td valign="top">
       <p align="center">
         <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/rio">
-          <img width="70%" src="https://github.com/raphamorim/rio/raw/main/misc/logo.svg" align="center">
+          <img src="https://github.com/raphamorim/rio/raw/main/misc/logo.svg" align="center">
         </a>
         <br/><br/>
-        <span>Rio</span>
+        <span>Rio Terminal</span>
       </p>
     </td>
   </tr>
